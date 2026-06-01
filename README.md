@@ -1,4 +1,4 @@
-```markdown
+
 # Discord Custom RPC App
 
 <p align="center">
