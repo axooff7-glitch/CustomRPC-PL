@@ -47,7 +47,7 @@ Built with:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/discord-custom-rpc.git
+git clone https://github.com/axooff7-glitch/CustomRPC-PL/blob/main/custom_rpc_app.py
 cd discord-custom-rpc
 ```
 
